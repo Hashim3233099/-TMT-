@@ -1,6 +1,6 @@
 #           -TMT-
 New repo
-<h1 align="center"> GIFTED-MD VERSION 3.0.0  </h1>
+<h1 align="center"> TMT-MD VERSION 3.0.0  </h1>
 <p align="center">  
 
 ***
