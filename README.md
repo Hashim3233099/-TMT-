@@ -3,8 +3,11 @@ New repo
 <h1 align="center"> TMT-MD VERSION 3.0.0  </h1>
 <p align="center">  
 
-***
- <a aria-label="tmt ʙᴏᴛ v.3.0.0 is free to use" href="https://github.com/Hashim3233099/TMT-Md" target="_blank">
+><img src="https://telegra.ph/file/49a3833ccbc65a8e7ea4b.jpg" width="600" height="500"/>
+ <a aria-label="tmt ʙᴏᴛ v.3.0.0 is 
+ 
+  free to use" 
+ href="https://github.com/Hashim3233099/TMT-Md" target="_blank">
 
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{Hashim3233099}/count.svg" alt="TMT ᴍᴅ :: Visitor's Count" /></p>
